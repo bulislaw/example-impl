@@ -4,3 +4,9 @@ int awesome_function(void *data)
 {
 	return 7;
 }
+
+void better_function(void)
+{
+	//Whatever
+}
+
